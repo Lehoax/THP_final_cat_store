@@ -25,6 +25,7 @@ Active record
 
 ## API:
 
+MailJet
 Stripe  
 Sendgrid  
 numero de carte test: `4242 4242 4242` 
